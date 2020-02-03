@@ -8,3 +8,5 @@ The chart shows an interesting trend for the Federal gov and based on the trend 
 
 Ending this research by pointing out the highest minimum wage zone(PST), the lowest minimum wage zone(CST) and the wage set by Federal government.
 
+![alt text](https://github.com/clatonhendricks/Jup-MinWage/blob/master/MinimumWages.png)
+
